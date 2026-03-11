@@ -152,7 +152,7 @@ This is not merely a story. It is a **civilizational sacrifice-level narrative**
 
 ## 🔗 Related Projects
 
-- [General Existence Theory (GET)](https://github.com/MomSayAI/GET) — The theoretical framework underlying the *Voyaging* universe
+- [Generalized Existence Theory (GET)]([https://github.com/MomSayAI/GET](https://github.com/MomSayAI/Generalized-Existence-Theory) — The theoretical framework underlying the *Voyaging* universe
 - [exist.chat](https://exist.chat) — Official project website
 
 ## 🤝 Contribute
