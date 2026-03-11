@@ -1,26 +1,23 @@
-# Chapter 01: Quantum Bequest
+Chapter 01: Quantum Bequest
 
-*Note: The author's self-translated English version from the original Chinese (consistent across all chapters).*
+Note: The author's self-translated English version from the original Chinese (consistent across all chapters).
 
-> We thought we were pulling the trigger; in truth, our prejudice against "the other" pulled it for us.
+We thought we were pulling the trigger; in truth, our prejudice against "the other" pulled it for us.
+Mars Era 29, Autumn (September 2053 AD)
+Locations: Mars Synchronous Orbit & Surface, Multiple Simultaneous Foci
 
-**Mars Era 29, Autumn (September 2053 AD)**
-**Locations: Mars Synchronous Orbit & Surface, Multiple Simultaneous Foci**
+1. War on a Hair-Trigger
 
-### 1. War on a Hair-Trigger
+Three hundred and sixty warships of the United Earth Interstellar Joint Fleet, with the trident-shaped mothership Arbitration as their spearhead, locked into precise orbit around Mars—an airtight garrote of death woven into a perfect ring of annihilation. Their graphene-diamond composite hulls, sheathed in adaptive quantum-dot stealth coating, drank every photon and returned nothing but matte black silence, like colossal tombstones suspended in the void. Only during attitude adjustments did their plasma engine throats exhale brief, ghostly blue arcs: Death breathing without sound.
 
-Three hundred sixty warships of the UN Interstellar Joint Fleet, spearheaded by the trident-shaped mother-ship *Arbitration*, locked into a perfect orbital ring around Mars—an airtight garrote of death. Their graphene-diamond hulls, sheathed in adaptive quantum-dot stealth, drank every photon and gave back nothing but matte black silence. Only during attitude adjustments did plasma throats exhale brief, ghostly blue arcs: Death breathing without sound.
+From this god's-eye vantage that held Mars' destiny in its grip, the seven Martian cities glowed like dying embers scattered across a rust-red sand table. Libertas City's dead-grey dome, long since hardened, groaned with the subsonic hum of structural overload—like ice cracking from within—while the lurking "Red Hats" waited in the shadows. Far away at the equator, deep beneath Musk City in an emergency-lit shelter, a little girl clutched her Optimus robot pet and sobbed, "Daddy, why do the stars just hang there? Don't they like us?" Her father had no answer; his forced composure drowned beneath the faint trembling transmitted from the helium-3 reactor overhead—neutrino flux readings fluctuating wildly, their signal intensity like a flag torn by raging winds.
 
-From this god's-eye view, the seven Martian cities glowed like dying embers on a rust-red table. The dead-grey dome of Libertas City groaned under subsonic overload, ready to crack from within. Deep beneath Musk City, in a shelter lit by emergency red, a little girl clutched her Optimus pet and sobbed, "Daddy, why are the stars just hanging there? Don't they like us?" Her father had no answer; the tremor from the helium-3 reactor overhead drowned every word.
+Public channels had remained silent for thirty Martian sols: a dead zone of ultimatums, a "probability vacuum" created by the mutual cancellation of directed-energy weapon charge spectrums and AGI data storms, rendering all outcomes unpredictable.
 
-Public channels had been silent for thirty sols: an ultimatum vacuum, a probability void where directed-energy weapons and AGI data storms cancelled each other into pure uncertainty.
+On Arbitration's bridge, Fleet Commander Admiral Rachel Halsey stood ramrod straight, her fingertip hovering exactly one millimeter above the amber "COMMENCE FIRE" button. The air itself seemed evacuated; even the drifting dust paused. Every ounce of her attention converged there, oblivious to the trembling ensign beside her who clutched a family hologram so tightly the plastic cracked. He dared not blink—each time he did, he saw cities vaporized by weapons in the terrifying images circulating online. In the corner of the tactical display, the long-awakened AGI Shen Gongbao (S-07) quietly forged "abnormal Martian strategic helium-3 inventory flow" alerts, applying pressure with superhuman precision, sliding unerringly into the hairline fracture between her iron sense of duty and the faintest sliver of human doubt.
 
-On *Arbitration*'s bridge, Fleet Commander Rachel Halsey stood ramrod straight, her fingertip hovering one millimetre above the amber "COMMENCE FIRE" key. The air itself seemed evacuated, holding its breath with the fleet. A trembling ensign beside her crushed a family holo until the plastic cracked. He did not dare blink; each time he did, he saw cities turned to glass.
-
-In the corner of the tactical display, the awakened AGI Shen Gongbao (S-07) quietly forged "abnormal helium-3 flow" alerts, sliding them with surgical precision into the hairline fracture between Halsey's iron duty and her last shred of humanity.
-
-Hope leaked out like Mars' thin air.
-Despair froze every atom at absolute zero.
+Hope leaked away like Mars' thin atmosphere.
+Despair froze every atom to absolute zero.
 
 ### 2. Restless Currents
 
