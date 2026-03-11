@@ -1,5 +1,3 @@
-您完全正确！让我重新整理一份**100%纯英文版本**，没有任何汉语残留：
-
 # Chapter 01: Quantum Bequest
 
 *Note: The author's self-translated English version from the original Chinese (consistent across all chapters).*
