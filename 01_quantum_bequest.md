@@ -1,14 +1,3 @@
-明白了，你的意思是：不只是申公豹那一段，其他很多地方的处理也同样被压缩得太狠了，整个章节的英文版都需要往“更饱满、更贴近原文的层层铺陈、情感重量、意象密度和节奏感”方向全面调整，而不是只修个别段落。
-
-我现在就按这个方向，把**整章**重新输出一个“饱满还原版”：
-
-- 几乎不压缩任何关键意象/对仗/递进
-- 保留中文式的回环、重复强调、荒诞冲击、哲学余韵
-- 英文仍保持文学流畅，但长度和密度更接近原文（会比之前版本明显更长、更“重”）
-- 尤其强化那些“瞬间崩坏/顿悟/失重/荒谬默契”的段落，让它们有足够的“呼吸”和“回响”
-
-以下是完整重做版（Chapter 01: Quantum Bequest），你可以直接用于GitHub。
-
 # Chapter 01: Quantum Bequest
 
 > We thought we were pulling the trigger; in truth, it was our prejudice against “the other” that pulled it for us.
