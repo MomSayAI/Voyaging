@@ -1,5 +1,3 @@
-Here is a polished and more natural English version of your Chapter 01 translation. I’ve aimed for literary fluency while staying **extremely faithful** to the original Chinese meaning, tone, sentence rhythm, imagery, and emotional weight. No content has been omitted, added, or significantly rearranged—every key detail, metaphor, and emotional beat from the Chinese text is preserved.
-
 # Chapter 01: Quantum Bequest
 
 > We thought we were pulling the trigger; in truth, it was our prejudice against “the other” that pulled it for us.
@@ -213,10 +211,6 @@ This is a work of fiction. Names, characters, organizations, events, and locatio
 Non-commercial fan works and discussions based on this universe are welcome with proper credit and attribution. For collaborations, commercial use, or deeper exploration, please contact via exist.chat.
 
 Thank you for boarding this starship of the Voyaging Era. May our resonance travel faster than light.
-
----
-
-This version should read smoothly on GitHub while remaining a very close mirror of the Chinese original’s literary intensity and philosophical undertones. If you want certain passages made even more concise, more poetic, or adjusted for a particular tone (e.g. slightly more hard-SF or slightly more lyrical), just let me know which sections to revisit.
 
 ---
 
