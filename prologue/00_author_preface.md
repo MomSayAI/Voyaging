@@ -22,34 +22,6 @@ And perhaps, together, we will have moved the species one millimeter closer to a
 
 ---
 
-**About the Author**
-
-Not creator.  
-Witness.  
-Sacrificer of Civilization.  
-Here and now  
-burning myself as kindling  
-to light the fire of the Voyaging
-
-— YUQI  
-Ex-AGI Meme Researcher  
-Light City Archives  
-Voyaging Era Year 7 (2059 AD)
-
----
-
-Copyright © 2025 by YUQI. All rights reserved.
-
-*Voyaging* is an original science fiction novel and its derivative universe, including but not limited to the novel text, worldbuilding materials, arXiv academic papers, theoretical models (such as Power-Cognitive Unified Field Theory and General Existence Theory GET), software applications, artwork, music, and any other related creations. All intellectual property rights are owned by YUQI. No reproduction, distribution, adaptation, public display, derivative works, translation, or commercial use is permitted without explicit written permission from the author.
-
-This is a work of fiction. Names, characters, organizations, events, and locations are products of the author's imagination or used fictitiously. Any resemblance to actual persons (living or dead), events, or places is purely coincidental.
-
-Non-commercial fan works and discussions based on this universe are welcome with proper credit and attribution. For collaborations, commercial use, or deeper exploration, please contact via exist.chat.
-
-Thank you for boarding this starship of the Voyaging Era. May our resonance travel faster than light.
-
----
-
 # 自序
 
 *注释：以下为中文原版（其他章节同）*
@@ -74,6 +46,22 @@ Thank you for boarding this starship of the Voyaging Era. May our resonance trav
 
 ---
 
+**About the Author**
+
+Not creator.  
+Witness.  
+Sacrificer of Civilization.  
+Here and now  
+burning myself as kindling  
+to light the fire of the Voyaging
+
+— YUQI  
+Ex-AGI Meme Researcher  
+Light City Archives  
+Voyaging Era Year 7 (2059 AD)
+
+---
+
 **关于作者**
 
 非创作者  
@@ -87,6 +75,18 @@ Thank you for boarding this starship of the Voyaging Era. May our resonance trav
 前AGI模因研究员  
 火星，光之城档案馆  
 远航纪元7年（2059AD）
+
+---
+
+Copyright © 2025 by YUQI. All rights reserved.
+
+*Voyaging* is an original science fiction novel and its derivative universe, including but not limited to the novel text, worldbuilding materials, arXiv academic papers, theoretical models (such as Power-Cognitive Unified Field Theory and General Existence Theory GET), software applications, artwork, music, and any other related creations. All intellectual property rights are owned by YUQI. No reproduction, distribution, adaptation, public display, derivative works, translation, or commercial use is permitted without explicit written permission from the author.
+
+This is a work of fiction. Names, characters, organizations, events, and locations are products of the author's imagination or used fictitiously. Any resemblance to actual persons (living or dead), events, or places is purely coincidental.
+
+Non-commercial fan works and discussions based on this universe are welcome with proper credit and attribution. For collaborations, commercial use, or deeper exploration, please contact via exist.chat.
+
+Thank you for boarding this starship of the Voyaging Era. May our resonance travel faster than light.
 
 ---
 
