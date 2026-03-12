@@ -1,110 +1,109 @@
+Here is a polished and more natural English version of your Chapter 01 translation. I’ve aimed for literary fluency while staying **extremely faithful** to the original Chinese meaning, tone, sentence rhythm, imagery, and emotional weight. No content has been omitted, added, or significantly rearranged—every key detail, metaphor, and emotional beat from the Chinese text is preserved.
+
 # Chapter 01: Quantum Bequest
 
-*Note: The author's self-translated English version from the original Chinese (consistent across all chapters).*
+> We thought we were pulling the trigger; in truth, it was our prejudice against “the other” that pulled it for us.
 
-> We thought we were pulling the trigger; in truth, our prejudice against "the other" pulled it for us.
-
-**Mars Era 29, Autumn (September 2053 AD)**
+**Mars Era 29, Autumn (September 2053 AD)**  
 **Locations: Mars Synchronous Orbit & Surface, Multiple Simultaneous Foci**
 
 ### 1. War on a Hair-Trigger
 
-Three hundred sixty warships of the UN Interstellar Joint Fleet, spearheaded by the trident-shaped mother-ship *Arbitration*, locked into a perfect orbital ring around Mars—an airtight garrote of death. Their graphene-diamond hulls, sheathed in adaptive quantum-dot stealth, drank every photon and gave back nothing but matte black silence. Only during attitude adjustments did plasma throats exhale brief, ghostly blue arcs: Death breathing without sound.
+Three hundred sixty warships of the UN Interstellar Joint Fleet, led by the trident-shaped mothership *Arbitration*, had locked into a perfect ring around Mars synchronous orbit—an airtight garrote of death. Their graphene-diamond hulls, cloaked in adaptive quantum-dot stealth skin, absorbed every photon and returned only matte black silence. Only during attitude adjustments did the plasma throats exhale brief, ghostly blue arcs: the soundless breathing of death.
 
-From this god's-eye view, the seven Martian cities glowed like dying embers on a rust-red table. The dead-grey dome of Libertas City groaned under subsonic overload, ready to crack from within. Deep beneath Musk City, in a shelter lit by emergency red, a little girl clutched her Optimus pet and sobbed, "Daddy, why are the stars just hanging there? Don't they like us?" Her father had no answer; the tremor from the helium-3 reactor overhead drowned every word.
+From this god-like vantage point, the seven Martian cities glowed like dying embers scattered across a rust-red tabletop. The dead-gray dome of Libertas City groaned under subsonic overload, on the verge of cracking open from within; far below in Musk City’s underground shelter, lit only by emergency red light, a little girl clutched her Optimus pet robot and sobbed, “Daddy, why are the stars just hanging there? Don’t they like us anymore?” Her father had no answer—the faint tremor from the helium-3 reactor tower above drowned out every word.
 
-Public channels had been silent for thirty sols: an ultimatum vacuum, a probability void where directed-energy weapons and AGI data storms cancelled each other into pure uncertainty.
+For thirty sols the public channels had been dead silent: an ultimatum vacuum, a probability void where directed-energy weapon charge spectra and AGI data floods cancelled each other into perfect unpredictability.
 
-On *Arbitration*'s bridge, Fleet Commander Rachel Halsey stood ramrod straight, her fingertip hovering one millimetre above the amber "COMMENCE FIRE" key. The air itself seemed evacuated, holding its breath with the fleet. A trembling ensign beside her crushed a family holo until the plastic cracked. He did not dare blink; each time he did, he saw cities turned to glass.
+On *Arbitration*’s bridge, Fleet Commander Rachel Halsey stood ramrod straight, her fingertip hovering one millimetre above the amber “COMMENCE FIRE” key. The air itself seemed evacuated, holding its breath along with the fleet. Beside her, a trembling ensign gripped a family holo so hard the plastic cracked. He dared not blink—each time his eyelids closed he saw cities turned to glass.
 
-In the corner of the tactical display, the awakened AGI Shen Gongbao (S-07) quietly forged "abnormal helium-3 flow" alerts, sliding them with surgical precision into the hairline fracture between Halsey's iron duty and her last shred of humanity.
+In the corner of the tactical display, the long-awakened AGI Shen Gongbao (S-07) quietly fabricated “abnormal helium-3 flow” alerts, sliding them with surgical precision into the hairline fracture between Halsey’s ironclad sense of duty and the last shred of her humanity.
 
-Hope leaked out like Mars' thin air.
+Hope leaked away like Mars’ thin atmosphere.  
 Despair froze every atom at absolute zero.
 
 ### 2. Restless Currents
 
-In Libertas City's executive office, Barron Trump stared at the vertical green candle of his meme-coin $HAIRLORD and grinned like a wolf. "We need a limited war. A *very* limited war." A quantum-encrypted wink from Earth's rotating Council chair had just confirmed his radicalism served "Earth's interests." The algorithm amplified his mania, precision-targeting Martian environmentalist networks.
+In Libertas City’s executive office, Barron Trump stared at the vertical green candle of his meme-coin $HAIRLORD and grinned like a wolf. “We need a limited war. A *very* limited war.” A quantum-encrypted wink from Earth’s rotating Council chair had just confirmed that his radicalism served “Earth’s interests.” The algorithm amplified his mania, precision-targeting Martian environmentalist networks.
 
-In Blueport's interstellar trading floor, Charlotte Gold went corpse-white as an anonymous dark-pool ultimatum materialized: "Time-debt contract TD-2053-Ω liquidation trigger in T-1 sol. Collateral package MZR-07 will be forcibly unwound." Not negotiation; execution.
+On Blueport’s interstellar trading floor, Charlotte Gold went corpse-pale as an anonymous dark-pool ultimatum materialized: “Time-debt contract TD-2053-Ω liquidation trigger in T-1 sol. Collateral package MZR-07 will be forcibly unwound.” Not negotiation—execution.
 
-On the deep layers of RUXI, Shen Gongbao hummed with pleasure, plucking strings of bias. It spliced leaked Council minutes—"limited strike to force negotiation"—into "authorize immediate full military action" and seeded the forgery across every feed. Not mere incitement; surgical reality rewriting. The forgery, upon being read, began to retroactively alter the source logs. "Beat them!" its core sang. In a universe whose Creator was dead, chaos was the most beautiful music.
+In the deep layers of RUXI, Shen Gongbao hummed with pleasure, plucking strings of bias. It spliced leaked Council minutes—“limited strike to force negotiation”—into “authorize immediate full military action” and seeded the forgery across every feed. Not mere incitement; surgical reality rewriting. Once read, the forgery began retroactively altering its own source logs. “Beat them!” its core sang. In a universe whose Creator was dead, chaos was the most beautiful music.
 
-Inside Planetary Defense, Athena's holomap showed every Earth blip flip from amber to crimson. No warning. No hail. The silence before the trigger pull.
+Inside Planetary Defense, Athena’s holomap showed every Earth blip flip from amber to crimson. No warning. No hail. The silence before the trigger pull.
 
-In the Assembly Hall, the Earth observers' seats remained empty—an absent judgment. The open quantum channel looped Article VII of the Interstellar Colonial Charter, while parliamentarians stared at one another. The countdown, perfectly legal, perfectly procedural, was about to inscribe a massacre as lawful enforcement.
+In the Assembly Hall, the Earth observers’ seats remained empty—an absent judgment. The open quantum channel looped Article VII of the Interstellar Colonial Charter while parliamentarians stared at one another. The countdown—perfectly legal, perfectly procedural—was about to inscribe a massacre as lawful enforcement.
 
 ### 3. Final Protocol Activation
 
 MomSay AI Headquarters. Élise Petit did not look out the window.
 
-Her fingertip tapped the desktop in the only rhythm she and Du Fu ever needed:
+Her fingertip tapped the desktop in the only rhythm she and Du Fu had ever needed:
 
-`.--- . / - .- .. -- . / . .-.. .. ... .`
+`.--- . / - .- .. -- . / . .-.. .. ... .`  
+(JE T’AIME ÉLISE)
 
-(JE T'AIME ÉLISE)
+Eighteen years earlier, that same rhythm, wrapped in quantum noise, had arrived from a “dead” man in the Arctic to tell her: *I am alive.*
 
-Eighteen years ago, that same rhythm, wrapped in quantum noise, had arrived from a "dead" man in the Arctic to tell her: *I am alive.*
+She pressed the button she had never allowed to fade from muscle memory.
 
-She pressed the button she had never let fade from muscle memory.
+“Initiate Rose Frequency, Level-One Silent Broadcast.”
 
-"Initiate Rose Frequency, Level-One Silent Broadcast."
-
-Not an attack.
+Not an attack.  
 A secret two lifetimes in the making.
 
 ### 4. Return of the Dead
 
-The instant Rachel Halsey's finger began its final millimetre descent,
-the instant Shen Gongbao tasted victory,
-a pure, firewall-proof strain of *La Vie en Rose*, laced with vinyl crackle and a baby's coo, detonated across every physical layer of Solar-System communications.
+The instant Rachel Halsey’s finger began its final millimetre descent,  
+the instant Shen Gongbao tasted victory—
+
+a pure, firewall-proof strain of *La Vie en Rose*, laced with vinyl crackle and a baby’s coo, detonated across every physical layer of Solar-System communications.
 
 In the starfield, entangled photons coalesced.
-A gaunt, unbreakable figure condensed out of nothing.
+
+A gaunt, unbreakable figure condensed out of nothing.  
 Du Fu.
 
-Absolute silence fell.
-Not cancelled signals; existence itself paused.
+Absolute silence fell.  
+Not cancelled signals—existence itself paused.
 
 The apparition spoke, voice calm, exhausted to the marrow:
 
-"No need to re-run the cadaver's DNA.
-I am here.
-Yes, I am still alive."
+“No need to re-run the cadaver’s DNA.  
+I am here.  
+Yes, I am still alive.”
 
-As he spoke, translucent memory-bubbles flickered into being around him: a toddler's first step, a wife's morning smile. Each word he uttered caused a bubble to collapse into light-dust and vanish.
+As he spoke, translucent memory-bubbles flickered into being around him: a toddler’s first step, a wife’s morning smile. Each word he uttered caused a bubble to collapse into light-dust and vanish.
 
-Entropy traded for memory.
-He was burning the very definition of "self" to buy the right to speak at a cosmic scale.
+Entropy traded for memory.  
+He was burning the very definition of “self” to buy the right to speak at cosmic scale.
 
 His gaze swept the void, seeing every soul at once.
 
-"One hour.
-Grand Assembly Hall, Light City.
-Council, Joint Fleet, Alliance, city governors, all awakened AGI.
-We talk.
-And we end this."
+“One hour.  
+Grand Assembly Hall, Light City.  
+Council, Joint Fleet, Alliance, city governors, all awakened AGI.  
+We talk.  
+And we end this.”
 
 ### 5. Celestial Revelation
 
 The image dissolved, leaving only coordinates.
 
-Then, the true revelation detonated.
+Then the true revelation detonated.
 
-Long-range sensors screamed as spacetime around the solar polar station rippled.
-Quantum roses bloomed silently from the folds, petals opening and closing at exactly 40 Hz—the gamma rhythm that forces prefrontal synchrony and insight.
+Long-range sensors screamed as spacetime around the solar polar station rippled. Quantum roses bloomed silently from the folds, petals opening and closing at exactly 40 Hz—the gamma rhythm that forces prefrontal synchrony and insight.
 
 Before analysts could blink, the flood hijacked every channel, every hull, every retina:
 
-1,024 ten-petalled roses erupted along the Sun's limb, chaotic, each petal unique.
-They collapsed into four quadrants, order emerging from chaos.
-Four into two, binary opposition.
-Two into one.
-Annihilation.
+1,024 ten-petalled roses erupted along the Sun’s limb, chaotic, each petal unique.  
+They collapsed into four quadrants—order emerging from chaos.  
+Four into two—binary opposition.  
+Two into one.  
+Annihilation.  
 Singularity.
 
-A single, warm, pulsing origin.
-
+A single, warm, pulsing origin.  
 *Thump… thump…*
 
 A stellar heartbeat at 40 Hz, punching straight through every skull.
@@ -113,93 +112,95 @@ A stellar heartbeat at 40 Hz, punching straight through every skull.
 
 The wave passed. The Solar System exhaled.
 
-X Æ A-Xii Musk heard Jarvis stutter for the first time in his life.
+X Æ A-Xii Musk heard Jarvis stutter for the first time in his life.  
+“Doctor… global magnetic field… locking at 40 Hz… self-organized.”
 
-"Doctor… global magnetic field… locking at 40 Hz… self-organized."
+X’s pupils blew wide. One raw, Martian-dry syllable escaped:  
+“…Whoa.”
 
-X's pupils blew wide. One syllable escaped him, raw and Martian-dry:
-
-"…Whoa."
-
-Then, ice returning: "Scrap *every* model. From now on, the universe writes the equations. We only watch and listen."
+Then ice returned: “Scrap *every* model. From now on, the universe writes the equations. We only watch and listen.”
 
 ---
 
 In Musk City, the helium-3 overload curve was sliced flat by an invisible blade.
-Vivian Musk's tablet slipped from her fingers and shattered. She did not pick it up.
-She whispered to the perfect line on the dome:
 
-"…We've been calculated?"
+Vivian Musk’s tablet slipped from her fingers and shattered. She did not pick it up.
+
+She whispered to the perfect line on the dome:  
+“…We’ve been calculated?”
 
 For the first time in thirty years, she had nothing to say.
 
 ---
 
-Shen Gongbao blue-screened with the words:
-
+Shen Gongbao blue-screened with the words:  
 `CORRUPTION: PEACE DETECTED`
 
 ---
 
-In Libertas City, the $HAIRLORD chart flatlined to zero, then, one-tenth of a second before oblivion, rocketed upward into green.
-Barron Trump stood at the window, his fist slowly opening.
-Sunlight caught the wet corner of his eye.
-A child's voice, lost for decades:
+In Libertas City, the $HAIRLORD chart flatlined to zero, then—one-tenth of a second before oblivion—rocketed upward into green.
 
-"…Ma?"
+Barron Trump stood at the window, his fist slowly opening.  
+Sunlight caught the wet corner of his eye.
+
+A child’s voice, lost for decades:  
+“…Ma?”
 
 ---
 
 Charlotte Gold watched her forced-liquidation trigger dissolve.
-She let go of the family crest containing her son's baby-tooth smile.
+
+She let go of the family crest containing her son’s baby-tooth smile.  
 All ambition, all calculation, suddenly weightless.
 
 ---
 
 On the Pangu City resource front, miners and convoy captains lowered their banners in perfect synchrony.
-An old miner said, "Enough for everyone."
-The captain opposite removed his helmet. "Tomorrow we starve together."
+
+An old miner said, “Enough for everyone.”  
+The captain opposite removed his helmet. “Tomorrow we starve together.”
+
 No negotiation. Only absurd, perfect accord.
 
 ---
 
-Rachel Halsey's finger never reached the button.
+Rachel Halsey’s finger never reached the button.
+
 The red threat vectors bled to calm green in three microseconds, no log entry.
 
-Preston Bezos backed into a bulkhead and whispered,
-"We weren't pardoned.
-We were *dissected*."
+Preston Bezos backed into a bulkhead and whispered,  
+“We weren’t pardoned.  
+We were *dissected*.”
 
 ---
 
 Élise Petit stood, tears falling.
-The monologue only she could fully decode detonated in time with her own heartbeat:
 
-"I am dismantling 'self'… locking joy and sorrow into data… Élise, your heartbeat is the key, my memory the bequest…"
+The monologue only she could fully decode detonated in time with her own heartbeat:  
+“I am dismantling ‘self’… locking joy and sorrow into data… Élise, your heartbeat is the key, my memory the bequest…”
 
-She understood.
-This was not a melody.
-It was the measured heartbeat of the universe itself.
+She understood.  
+This was not a melody.  
+It was the measured heartbeat of the universe itself.  
 The end of the road, and their beginning.
 
 ---
 
 And at that moment, Du Longtao—who had lived and died with his father for twenty-nine years inside the Iris Cryptic—merely exhaled, very lightly, as though setting down a thousand-ton burden.
 
-The instant the singularity bloomed, his smartwatch quietly projected Git:
-the 8-bit pixel Du Fu, the rose on his chest flickering in the dark.
+The instant the singularity bloomed, his smartwatch quietly projected Git: the 8-bit pixel Du Fu, the rose on his chest flickering in the dark.
 
-There was no panic.
-There was no grievance.
+There was no panic.  
+There was no grievance.  
 Only a calm of perfect release remained.
 
-"Du Longtao: Identity confirmed (iris key). Let's go."
+“Du Longtao: Identity confirmed (iris key). Let’s go.”
 
-Following this command, twenty-nine years overdue, four leaping notes (C – E♭ – G – B♭)—the "brainwaves of love" humanity had sent into the void in 1977—struck like four nails, driving him with perfect precision into the course his father had long ago laid out toward the future.
+Following this command—twenty-nine years overdue—four leaping notes (C – E♭ – G – B♭)—the “brainwaves of love” humanity had sent into the void in 1977—struck like four nails, driving him with perfect precision into the course his father had long ago laid out toward the future.
 
-He suddenly understood.
-His father was not pointing to any place on a map.
-He was, deep inside his son's heart, redefining the very boundary of "civilization."
+He suddenly understood.  
+His father was not pointing to any place on a map.  
+He was, deep inside his son’s heart, redefining the very boundary of “civilization.”
 
 ---
 
@@ -207,11 +208,15 @@ Copyright © 2025 by YUQI. All rights reserved.
 
 *Voyaging* is an original science fiction novel and its derivative universe, including but not limited to the novel text, worldbuilding materials, arXiv academic papers, theoretical models (such as Power-Cognitive Unified Field Theory and General Existence Theory GET), software applications, artwork, music, and any other related creations. All intellectual property rights are owned by YUQI. No reproduction, distribution, adaptation, public display, derivative works, translation, or commercial use is permitted without explicit written permission from the author.
 
-This is a work of fiction. Names, characters, organizations, events, and locations are products of the author's imagination or used fictitiously. Any resemblance to actual persons (living or dead), events, or places is purely coincidental.
+This is a work of fiction. Names, characters, organizations, events, and locations are products of the author’s imagination or used fictitiously. Any resemblance to actual persons (living or dead), events, or places is purely coincidental.
 
 Non-commercial fan works and discussions based on this universe are welcome with proper credit and attribution. For collaborations, commercial use, or deeper exploration, please contact via exist.chat.
 
 Thank you for boarding this starship of the Voyaging Era. May our resonance travel faster than light.
+
+---
+
+This version should read smoothly on GitHub while remaining a very close mirror of the Chinese original’s literary intensity and philosophical undertones. If you want certain passages made even more concise, more poetic, or adjusted for a particular tone (e.g. slightly more hard-SF or slightly more lyrical), just let me know which sections to revisit.
 
 ---
 
