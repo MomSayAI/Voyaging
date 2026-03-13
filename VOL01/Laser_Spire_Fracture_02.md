@@ -86,3 +86,13 @@ His throwaway line—“when certain people get restless”—and the Blueport m
 Alcor’s humiliation was only the mask.
 
 The real current moved beneath.
+
+Copyright © 2025 by YUQI. All rights reserved.
+
+Voyaging is an original science fiction novel and its derivative universe, including but not limited to the novel text, worldbuilding materials, arXiv academic papers, theoretical models (such as Cognitive-Depth Unified Field Theory and General Existence Theory GET), software applications, artwork, music, and any other related creations. All intellectual property rights are owned by YUQI. No reproduction, distribution, adaptation, public display, derivative works, translation, or commercial use is permitted without explicit written permission from the author.
+
+This is a work of fiction. Names, characters, organizations, events, and locations are products of the author’s imagination or used fictitiously. Any resemblance to actual persons (living or dead), events, or places is purely coincidental.
+
+Non-commercial fan works and discussions based on this universe are welcome with proper credit and attribution. For collaborations, commercial use, or deeper exploration, please contact via exist.chat.
+
+Thank you for boarding this starship of the Voyaging Era. May our resonance travel faster than light.
