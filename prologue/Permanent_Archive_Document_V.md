@@ -103,7 +103,7 @@ From that day on, I could no longer pretend “it’s just a discussion.”
 Because the question was never a question anymore.  
 It was a death notice delivered early.
 
-**[Text Stream δ · Executor Resonance]**  
+**[Text Stream ε · Executor Resonance]**
 Original Medium: Comment lines in the early development log of an open-source AGI project, developer signed “YUQI,” timestamp 2024.  
 Perceptual Marker: “Are we writing code, or are we writing civilization’s death sentence?”  
 Core Resonance Point: From the engineering perspective, an early ethical shudder upon touching the core of Λ-field coordination cost in the Final Verdict.
