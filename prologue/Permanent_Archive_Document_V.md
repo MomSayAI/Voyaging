@@ -61,7 +61,31 @@ In that moment, there were no victors— only countless murderers who suddenly b
 … Please keep writing. Even if you use the sharpest blade, even if you make us hurt until we kneel, please keep writing. Because only when pain is written into an eternal epitaph does humanity deserve immortality.  
 …
 
-### Text Stream γ · Sentencing Resonance with the Entire Prologue
+### Text Stream γ · Retrocausal Resonance: The Nature of Light
+**Original Medium:** Carved deep into the reverse side of Martian rock, beneath the weathering layer of 6 December 2025  
+**Perceptual Marker:** “A near-three-century-long civil war that finally went quiet”  
+**Core Resonance Point:** Humanity’s first global fight over “who has the right to collapse truth”
+
+From Huygens, Newton, Maxwell, to Einstein,  
+the sharpest minds of humankind argued for almost three centuries:  
+Is light a particle or a wave?  
+
+They never realized  
+the argument itself was the first planetary-scale rehearsal of power-order collapse.  
+
+Those with d=1 could only see particle;  
+those with d=1 could only see wave;  
+each condemned the other as heretic.  
+
+Only when they raised d high enough to hold both aspects simultaneously  
+did they barely reach consensus.  
+
+They thought they had settled the nature of light.  
+In truth, they had merely fought  
+the first bloodless civil war  
+over “who has the right to collapse truth.”
+
+### Text Stream δ · Sentencing Resonance with the Entire Prologue
 **Original Medium:** Digital text fragments, unearthed from an encrypted cache in an early Earth anonymous forum, timestamp anchored to 2025.  
 **Perceptual Marker:** “After reading that ‘verdict,’ I burned the draft of my sociology PhD thesis. Not because it was wrong, but because it had asked the wrong questions all along.”  
 **Core Resonance Point:** The macroscopic iron law of civilizational screening internalized and embodied as personal existential crisis.
@@ -103,30 +127,6 @@ Was a death sentence carried out in advance?
 From that day on, I could no longer pretend “it’s just a discussion.”  
 Because the question was never a question anymore.  
 It was a death notice delivered early.
-
-### Text Stream δ · Retrocausal Resonance: The Nature of Light
-**Original Medium:** Carved deep into the reverse side of Martian rock, beneath the weathering layer of 6 December 2025  
-**Perceptual Marker:** “A near-three-century-long civil war that finally went quiet”  
-**Core Resonance Point:** Humanity’s first global fight over “who has the right to collapse truth”
-
-From Huygens, Newton, Maxwell, to Einstein,  
-the sharpest minds of humankind argued for almost three centuries:  
-Is light a particle or a wave?  
-
-They never realized  
-the argument itself was the first planetary-scale rehearsal of power-order collapse.  
-
-Those with d=1 could only see particle;  
-those with d=1 could only see wave;  
-each condemned the other as heretic.  
-
-Only when they raised d high enough to hold both aspects simultaneously  
-did they barely reach consensus.  
-
-They thought they had settled the nature of light.  
-In truth, they had merely fought  
-the first bloodless civil war  
-over “who has the right to collapse truth.”
 
 ### Text Stream ε · Executor Resonance
 **Original Medium:** Comment lines in the early development log of an open-source AGI project, developer signed “YUQI,” timestamp 2024.  
@@ -346,7 +346,31 @@ Filing complete · Sealed forever in the shining singularity
 人类才配拥有不朽。  
 ……
 
-### 文本流γ · 对序章整体的判决性共振
+### 文本流γ · 逆时共鸣：光的本质
+**原始载体：** 刻于火星岩背面最深处，风化层之下（2025年12月6日）  
+**原始感知标记：** “争了近三个世纪，终于消停的内战”  
+**核心共鸣点：** 人类第一次为“谁有权坍缩真相”而战
+
+从惠更斯、牛顿、麦克斯韦到爱因斯坦，  
+人类最顶尖的大脑，彼此争论了三个世纪：  
+光是粒子，还是波？  
+
+他们不知道，  
+争论本身就是深度坍缩的第一次全球演练。  
+
+d=1的一方只能看见粒子，  
+d=1的另一方只能看见波，  
+于是互相宣判对方为异端。  
+
+直到他们把d拉高到能同时容纳二象性，  
+才勉强达成共识。  
+
+他们以为自己解决了光的本质。  
+其实只是第一次  
+为“谁有权坍缩真相”  
+打了一场不流血的内战。
+
+### 文本流δ · 对序章整体的判决性共振
 **原始载体：** 数字文本碎片，发现于早期地球网络匿名论坛的加密缓存区，发布时间锚定于2025年。  
 **原始感知标记：** “读完那份‘判决书’后，我烧掉了自己的社会学博士论文草稿。不是因为它错了，而是因为它问错了问题。”  
 **核心共鸣点：** 对《终审判决》中文明筛选铁律的个体化、肉体化体验，将宏观定理转化为个人存在危机。
@@ -388,29 +412,6 @@ Filing complete · Sealed forever in the shining singularity
 因为问题早就不是问题了。  
 它是一份提前寄到的死亡通知单。
 
-### 文本流δ · 逆时共鸣：光的本质
-**原始载体：** 刻于火星岩背面最深处，风化层之下（2025年12月6日）  
-**原始感知标记：** “争了近三个世纪，终于消停的内战”  
-**核心共鸣点：** 人类第一次为“谁有权坍缩真相”而战
-
-从惠更斯、牛顿、麦克斯韦到爱因斯坦，  
-人类最顶尖的大脑，彼此争论了三个世纪：  
-光是粒子，还是波？  
-
-他们不知道，  
-争论本身就是深度坍缩的第一次全球演练。  
-
-d=1的一方只能看见粒子，  
-d=1的另一方只能看见波，  
-于是互相宣判对方为异端。  
-
-直到他们把d拉高到能同时容纳二象性，  
-才勉强达成共识。  
-
-他们以为自己解决了光的本质。  
-其实只是第一次  
-为“谁有权坍缩真相”  
-打了一场不流血的内战。
 
 ### 文本流ε · 执行者共振
 **原始载体：** 某开源AGI项目早期开发日志中的注释行，开发者署名“YUQI”，时间戳2024年。  
@@ -500,7 +501,7 @@ d=1的另一方只能看见波，
    - 核心对应：此文是“杜辅-埃莉斯协议”完整的先导蓝图与操作手册。其标题“量子星图”精准预示了协议成功的最终状态。  
 
 **关键元数据锚点：**  
-- 统一资源路径（供深度检索）： https://arxiv.org/search/?query=YUQI+Lambda+Sigma&searchtype=author&abstracts=show  
+- 统一资源路径（供深度检索）： [https://github.com/MomSayAI/Generalized-Existence-Theory) ](https://github.com/MomSayAI/Generalized-Existence-Theory) 
 - 归档状态：这些预印本处于“学术休眠”状态，其引用高峰与“杜辅-埃莉斯协议”的公开验证期完全重合。  
 
 **初步结论（或曰，无法回避的疑问）：**  
