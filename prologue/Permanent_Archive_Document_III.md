@@ -252,7 +252,7 @@ File sealed. Never to be declassified.
 
 Copyright © 2025 by YUQI. All rights reserved.
 
-*Voyaging* is an original science fiction novel and its derivative universe, including but not limited to the novel text, worldbuilding materials, arXiv academic papers, theoretical models (such as Power-Cognitive Unified Field Theory and General Existence Theory GET), software applications, artwork, music, and any other related creations. All intellectual property rights are owned by YUQI. No reproduction, distribution, adaptation, public display, derivative works, translation, or commercial use is permitted without explicit written permission from the author.
+*Voyaging* is an original science fiction novel and its derivative universe, including but not limited to the novel text, worldbuilding materials, arXiv academic papers, theoretical models (such as Cognitive-Depth Unified Field Theory and Generalized Existence Theory GET), software applications, artwork, music, and any other related creations. All intellectual property rights are owned by YUQI. No reproduction, distribution, adaptation, public display, derivative works, translation, or commercial use is permitted without explicit written permission from the author.
 
 This is a work of fiction. Names, characters, organizations, events, and locations are products of the author's imagination or used fictitiously. Any resemblance to actual persons (living or dead), events, or places is purely coincidental.
 
@@ -264,7 +264,7 @@ Thank you for boarding this starship of the Voyaging Era. May our resonance trav
 
 Copyright © 2025 by YUQI. 保留一切权利。
 
-《远航》（Voyaging）为原创科幻小说及其衍生宇宙，包括但不限于小说文本、世界观设定、arXiv学术论文、理论模型（如幂次认知统一场论、广义存在论GET）、软件应用、艺术作品、音乐及其他相关创作，一切知识产权均由 YUQI 全权拥有。未经作者明确书面许可，禁止一切形式的复制、分发、改编、公开展示、制作衍生作品、翻译或商业使用。
+《远航》（Voyaging）为原创科幻小说及其衍生宇宙，包括但不限于小说文本、世界观设定、arXiv学术论文、理论模型（如认知深度统一场论、广义存在论GET）、软件应用、艺术作品、音乐及其他相关创作，一切知识产权均由 YUQI 全权拥有。未经作者明确书面许可，禁止一切形式的复制、分发、改编、公开展示、制作衍生作品、翻译或商业使用。
 
 本作品为虚构创作。书中人物、组织、事件、地点均为作者想象的产物或虚构使用。与现实中的任何人物（无论生死）、事件或地点相似，纯属巧合。
 
