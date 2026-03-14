@@ -53,3 +53,13 @@ Preston looked toward Vivian and me, his gaze deep and grave: “Earth won’t l
 I took a deep breath and shared the preliminary analysis report I had just finished processing onto the table: “Regarding the quantum communication module on the drone wreckage, we discovered an anomaly. The last instruction it received had its source IP masked multiple times, but ultimate tracing led to… an untraceable darknet node. And the timing of that instruction trigger matches exactly with the moment microscopic disturbances began appearing in the tower’s constraint field.”
 
 One more clue had emerged—but every thread seemed to lead into an even thicker fog. Alco, Earth, AGI, the darknet… the truth felt like a polyhedron, each face reflecting a different light, yet concealing the core even more deeply.
+
+Copyright © 2025 by YUQI. All rights reserved.
+
+Voyaging is an original science fiction novel and its derivative universe, including but not limited to the novel text, worldbuilding materials, arXiv academic papers, theoretical models (such as Cognitive-Depth Unified Field Theory and General Existence Theory GET), software applications, artwork, music, and any other related creations. All intellectual property rights are owned by YUQI. No reproduction, distribution, adaptation, public display, derivative works, translation, or commercial use is permitted without explicit written permission from the author.
+
+This is a work of fiction. Names, characters, organizations, events, and locations are products of the author’s imagination or used fictitiously. Any resemblance to actual persons (living or dead), events, or places is purely coincidental.
+
+Non-commercial fan works and discussions based on this universe are welcome with proper credit and attribution. For collaborations, commercial use, or deeper exploration, please contact via exist.chat.
+
+Thank you for boarding this starship of the Voyaging Era. May our resonance travel faster than light.
