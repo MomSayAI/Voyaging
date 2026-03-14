@@ -1,91 +1,83 @@
 ### 2. Humiliation from Capital
 
-“Not external attack.”
+“Non-external attack.” I repeated those five words, the aftershock of the explosion still reverberating inside my skull. This meant the worst-case scenario: not an external enemy, but internal collapse. The precise system I had inherited and taken such pride in had birthed, from within itself, cancer cells it could no longer comprehend.
 
-I repeated the five words while the aftershock still rang inside my skull.
+Without needing any command, Jarvis had already pushed the emergency protocols to highest priority. The holographic interface switched instantly; the three-dimensional model of the city was replaced by the Alpha Tower node highlighted in glaring red, flanked by cascading waterfalls of raw data streams—radiation readings, gravitational distortions, spatial curvature fluctuations… Every metric was spiking wildly, yet somehow held in a bizarre equilibrium, refusing to trigger an immediate cascading failure. This didn’t look like an explosion. It looked more like… a meticulously orchestrated system suicide.
 
-Worst case: not enemy action—internal cancer. The precision system I had inherited and taken pride in had grown a tumour it could not comprehend.
+“Activate Furnace Protocol Subsection 3. Redirect all non-essential city-wide energy supply to the backup matrix. Begin emergency evacuation of all personnel within ten kilometers of the tower. Notify the Executive and Director Bezos—immediate access to encrypted channel ‘Olympus’.” My voice came out unexpectedly calm; each order executed like pre-compiled code running on autopilot. Adrenaline burned coldly through my veins, sweeping away the earlier anxiety and nightmare residue, leaving only pure, laser-focused crisis mode.
 
-No command needed. Jarvis escalated to maximum emergency. The holoworkspace flipped to a 3-D model of the city, Alpha Spire bleeding red. Cascading raw feeds—radiation, gravity distortion, spacetime curvature—went berserk yet hovered in a grotesque equilibrium, refusing chain-reaction collapse. Not an explosion. A controlled suicide.
+The moment my words fell, two holographic figures materialized in the center of my office.
 
-“Initiate Furnace Protocol Tier 3. Reroute all non-critical power to backup matrices. Evacuate ten-kilometre radius. Get the Speaker and Director Bezos on the Olympus encrypted channel now.”
+To the left was Vivian Musk—my half-sister, Chief Executive of Starship City. She appeared to have been pulled straight from an Alliance council session; she still wore her deep burgundy legislative robe, yet her hair was immaculately pinned, her gaze sharp as a raptor’s. Only the faint tightening at the corners of her mouth betrayed any strain. “Ex, report the situation. The public monitoring network has already detected the energy anomaly. Panic indices are climbing.”
 
-My voice was unnaturally calm, each order pre-compiled code executing itself. Adrenaline burned cold, sweeping away nightmares and anxiety, leaving only crystalline crisis mode.
+To the right stood Preston Bezos, Director of Alliance Security and Assurance. He was in civilian attire, background the signature austere all-white command center of his. In one hand he held a steaming cup of black coffee; his face was granite-hard, yet his eyes scanned like the most advanced array, instantly cataloguing me, Vivian, and the entire situation. “The energy leakage pattern is unusual, Doctor. This doesn’t feel like an accident. It feels more like… a demonstration. Any trace of external interference at the site? Even theoretically impossible traces.”
 
-Two holograms materialised.
+“Jarvis’s preliminary analysis has ruled out external attack. The last thousandth-of-a-second burst of sensor data before collapse shows the constraint field was… elegantly deconstructed from the inside in a way we cannot yet understand.” I pulled up that fatal data stream; the curve was so unnaturally smooth it raised the hairs on the back of my neck—as though Death itself had performed the procedure with the finest surgical scalpel. “Like logical suicide.”
 
-Left: Vivian Musk, Speaker, yanked mid-session, still in crimson parliamentary robes, hair perfect, eyes hawk-sharp, lips the only betrayal of strain. “X, report. Public sentiment net is spiking; panic index climbing.”
+Preston’s fingertips tapped rhythmically against the coffee cup. “Internal deconstruction. That opens several possibilities: an unknown fatal flaw in the system, or… an insider with access and technology far beyond our current grasp.” His gaze flicked to Vivian, then settled back on me. “A joint investigation task force must be formed immediately, led by my Security Bureau. Until the truth is clear, all remaining towers in the Dione Shield laser array must be placed under maximum-level oversight.”
 
-Right: Preston Bezos, Director of Voyaging Safety & Assurance, in his signature undecorated white command centre, black coffee in hand, face granite. “Leakage pattern is… artistic. This wasn’t accident. It was demonstration. Any trace of external vectors?”
+The Executive countered instantly, her voice rising a full octave: “Director Bezos, right now the priority is stabilizing public sentiment and containing damage! Sending your security agents swarming everywhere will only amplify panic! Dr. Ex’s technical team knows this system better than anyone—they should lead the investigation!”
 
-“Jarvis rules out external attack. Last millisecond sensor packet shows containment field deconstructed from inside with… elegance.” I pulled up the fatal curve—smooth, chilling, the stroke of a scalpel wielded by death itself. “Logic suicide.”
+“Executive,” Preston’s tone remained level, yet carried the weight of steel, “when a fortress may have been breached from within, the first task is to locate the rot, not to repaint the walls. This is no longer a technical matter. This is a security matter. I invoke the authority granted under Article 11 of the Mars Emergency Powers Act.”
 
-Preston’s fingertip drummed a slow rhythm against his coffee cup. “Internal deconstruction. Possibilities: unknown fatal flaw, or an insider with permissions beyond our comprehension.”
+The channel crackled with gunpowder tension.
 
-Vivian: “We stabilise the population first—”
+Just as the argument threatened to ignite, Jarvis interjected with calm precision: “On-site emergency response team has reached the edge of the safe perimeter. Preliminary scan indicates the tower structure remains largely intact, but the core constraint chamber has suffered total failure. High-energy residual environment contains… anomalous metallic debris scattered throughout. Composition analysis in progress…”
 
-Preston cut in, steel on steel: “When the fortress may have been breached from within, the priority is finding the termite, not repainting the walls.”
+The holographic feed switched to first-person view from the Helios Energy Group on-site response team. The blast core was a wasteland of devastation; the ground had been vitrified by extreme heat into glassy obsidian that shimmered with eerie iridescence. Scattered among the molten slag lay twisted, charred fragments—still recognizable in rough shape as metallic wreckage. The structure was far too sophisticated to belong to the tower itself.
 
-Jarvis interrupted: “On-site team at safe perimeter. Core containment chamber gone. Discovering… anomalous metallic debris.”
+“Analysis complete. Debris material: high-purity graphene-titanium composite alloy with integrated non-standard quantum communication module. Partial serial number recovered… matching database… confirmed as belonging to FLUX corporation’s ‘Observer’ series unmanned reconnaissance drone.”
 
-Feed switched to Helios Energy first-responder POV. The blast centre was vitrified into glass, iridescent. Among the glass lay twisted, charred metal fragments—too precise, too alien to be spire components.
+A FLUX drone? Alcor Gold’s signature surveillance tool?
 
-“Analysis complete. Graphene-titanium composite, integrated non-standard quantum comms module. Serial fragment match… FLUX Inc ‘Observer’ series reconnaissance drone.”
+The channel fell into absolute silence.
 
-FLUX drone. Alcor Gold’s personal eye.
+Vivian’s face drained of color. Preston set his coffee cup down; a cold “as expected” glint flashed through his eyes. And I felt an icy current race from the base of my spine straight to the crown of my head. One of Alcor’s drones—inside the collapse core of the laser tower?
 
-Silence.
+Thirty minutes later, the first interrogation session of the joint investigation task force convened inside a heavily secured virtual conference room. The atmosphere was thick enough to wring water from the air. Holographic avatars of myself, Vivian, Preston, and various expert representatives sat around an enormous round table. At its center hovered high-resolution holographic scans of several FLUX drone wreckage fragments.
 
-Vivian went white. Preston’s eyes flashed “as expected.”
+Preston Bezos wasted no time on preliminaries. He initiated the remote connection protocol. After multiple encrypted relays, a figure slowly coalesced at the far end of the table.
 
-Thirty minutes later, virtual tribunal. Fragments hovered centre table like a corpse on trial.
+Alcor Gold appeared—not in some austere office, but inside the observation lounge of his opulent personal orbital station, “Philosopher’s Stone.” Behind him stretched the infinite black of space and the slow arc of Earth’s limb. He wore a perfectly tailored dark-red velvet lounging suit, a glass of amber liquor in hand, demeanor relaxed as though he were about to attend a private dinner. Even more conspicuous: behind him, a sleek industrial robot was delicately placing what appeared to be an immensely valuable classical marble sculpture into a shock-proof crate, clearly preparing for some kind of relocation.
 
-Preston initiated direct link.
+“Mr. Gold,” Preston’s voice was ice, “explain why surveillance equipment belonging to your company was present in the core collapse zone of the Dione Shield Alpha Tower.”
 
-Alcor Gold materialised—not in an office, but inside the observation lounge of his private orbital station Point Gold. Behind him, Earth’s curve rotated slowly. He wore dark-red velvet, held amber liquor, posture languid, as if attending a gala. Behind him, an industrial bot carefully packed a priceless marble statue.
+Alcor swirled his glass, letting his lazy gaze drift across Preston before finally locking onto me. The corner of his mouth curled into an undisguised sneer.
 
-“Mr. Gold,” Preston’s voice could freeze vacuum, “care to explain why your company’s surveillance asset was at ground zero of the Alpha Spire collapse?”
+“My drone? Of course it’s mine.” His tone was flippant, dripping with condescension. “I monitor my own assets—perfectly legal, fully protected under Article 5 of the Mars Investment Safeguards Act. That tower, along with most of the key patents left behind by your late associate Du Fu, now sits squarely inside the Gold Capital investment portfolio. I put a drone on my own property to keep an eye on it—make sure some… mismanaged ‘accident’ doesn’t destroy it. Is there a problem?”
 
-Alcor swirled his glass, gaze sliding over Preston, fixing on me with open contempt.
+The naked provocation made Vivian slam her virtual palm on the table. “Alcor! Are you implying we bear responsibility for the facility’s management?”
 
-“My drone? Of course it’s mine.” Drawl dripping privilege. “I monitor my assets. Legal, compliant, protected by Mars Investment Protection Act Article 5. Those towers—and most of the late Du Fu’s key patents—are now in Gold Capital’s portfolio. I put a drone to watch my property from being… mismanaged. Problem?”
+“Implying?” Alcor gave a short, derisive laugh and took a deep swallow of liquor. “Vivian, do I need to imply anything? The facts are simple: a tower operated by the Musk family and secured by the Bezos family blew up while I was watching it. And now I’m the one who should be asking how you plan to compensate me for the rather expensive piece of surveillance hardware you just turned into scrap.”
 
-Vivian slammed the virtual table. “Alcor, are you implying—”
+His gaze pinned me again—this time carrying a mixture of greed, resentment, and something darker, almost gleeful. Yet deep in that look I caught a fleeting glint of calculation that wasn’t aimed at me. He was smirking inwardly, and the target wasn’t here.
 
-“Implying?” He laughed, drank deep. “Vivian, I don’t imply. Your Musk-family operations, your Bezos-family security—my drone was watching when the tower I own blew up. I’m the one out a very expensive piece of hardware. How will you compensate me?”
+“Alcor,” I forced myself to stay level, staring straight back, “this isn’t about compensation. This is a major security incident. Your drone being there—was it coincidence, or something else?”
 
-His stare pinned me again, a cocktail of greed, resentment, and something viciously personal.
+“Something else?” Alcor gave an exaggerated shrug. “My goal is very simple: protect my investment. After all, accidents happen rather frequently on Mars, don’t they? Especially… when certain family members aren’t behaving themselves.” The last sentence carried heavy subtext; his eyes appeared to drift—almost casually—toward the conspicuously empty seat representing Blueport City (Charlotte Gold’s domain).
 
-I forced calm. “This is not about compensation. It is a grave security incident. Your drone at the epicentre—coincidence or intent?”
+At that exact moment, Jarvis pushed an urgent private-channel message visible only to me:  
+【Helios Energy, Gaia Mind, and multiple other major Martian conglomerates experiencing abnormal stock-price volatility. Large volumes of anonymous accounts executing concentrated sell-offs; declines already exceed 12%, triggering market circuit breakers. Sell-off pattern analysis… strong correlation with dark-pool trading entities linked to Gold Capital.】
 
-“Intent?” Theatrical shrug. “My intent is simple: protect my investment. Mars has many accidents, especially when certain people get… restless.” His eyes flicked to the empty Blueport seat.
+Almost simultaneously, Preston received a similar report from his staff. His brows knitted tightly. “Mr. Gold, your statements are fueling market panic. I expect you to cooperate with the investigation rather than exacerbate the situation.”
 
-Jarvis private channel, only for me:
+Alcor merely gave an indifferent smile, drained the last of his glass, and set it down. “The market? The market follows its own laws. Panic stems from uncertainty, and uncertainty stems from your management competence. As for cooperation… my legal team will handle everything. If you’ll excuse me, I have an important ‘asset relocation’ that requires my personal attention.”
 
-[Multiple Mars megacaps dumping 12%+ in minutes. Anonymous dark-pool volume signature matches Gold Capital.]
+With that, his holographic image blinked out. For a split second the feed lingered on the robot in the observation lounge, carefully sealing the crate around the marble statue—an icy, wordless taunt.
 
-Preston received the same ping. His knuckles whitened on the cup.
+The interrogation ended abruptly.
 
-Alcor smiled, drained the glass. “Lawyers will handle the rest. I have an urgent asset transfer to oversee.”
+Preston’s face darkened; he immediately moved to investigate Alcor’s so-called “asset relocation.” Vivian turned her attention to calming the public and fielding questions from the legislature.
 
-Image winked out.
+I remained alone in the virtual conference room, staring at the hovering drone wreckage at the center of the table. Alcor’s performance had been flawless—he had played the role of the arrogant, ruthless, profit-obsessed capitalist to perfection. He had successfully redirected every gaze toward the simplistic, brutal conclusion: “malice from Earth capital.”
 
-The tribunal dissolved into ice.
+But was it really that simple?
 
-Preston left to chase the “transfer.”
-Vivian to soothe the mob.
+That loaded remark—“when certain family members aren’t behaving themselves”—together with Jarvis’s report pointing to unusual activity in Blueport City’s interstellar financial markets, felt like two thin threads quietly leading toward a far deeper vortex inside the Gold family itself.
 
-I remained alone with the hovering drone carcass.
+Alcor Gold’s humiliation was merely the surface veil.
 
-Alcor had performed perfectly—arrogant, ruthless capitalist. He had steered every gaze toward “hostile Earth capital.”
-
-But was it that simple?
-
-His throwaway line—“when certain people get restless”—and the Blueport market anomaly were two threads pointing into a deeper Gold-family vortex.
-
-Alcor’s humiliation was only the mask.
-
-The real current moved beneath.
+The real undercurrent was only now beginning to stir.
 
 Copyright © 2025 by YUQI. All rights reserved.
 
