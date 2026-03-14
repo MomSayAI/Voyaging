@@ -1,58 +1,119 @@
-**3 The Fog of Technological Sovereignty**
+**3. The Fog of Technological Sovereignty**
 
-After Alcor Gold’s holographic image vanished, the virtual conference room was filled with a sense of humiliation from being toyed with, along with even deeper suspicion. The wreckage of the FLUX drone hovered above the center of the round table like a cold piece of evidence—but what it pointed to was clearly far more complicated than the crude answer Alcor had tried to present.
+Alcor Gold’s hologram blinked out.  
 
-“He’s diverting attention,” Preston Bezos broke the silence first. His fingers moved rapidly across the holographic tabletop, pulling up recent orbital data for Alcor’s “Philosopher’s Stone” space station. “Look—an asset transfer of this scale isn’t something decided on the spur of the moment. He’s been preparing for this. This ‘accident’ may have been the perfect window for withdrawal that he was waiting for.”
+The virtual chamber filled with the sour aftertaste of being played—humiliation settling like smoke, now laced with colder, deeper doubt.  
 
-Vivian Musk rubbed her temples, her voice carrying both exhaustion and anger: “Even so, the fact that his drone was on site is undeniable! Right now on the RUXI platform, the tag ‘Alcor is the killer’ has already surged into the top ten trending topics! We have to give the public an explanation!”
+The FLUX drone wreckage hovered dead center above the round table: cold, metallic evidence.  
+But it pointed nowhere near the crude, simple answer Alcor had tried to sell.
 
-As she said, the roar of collective consciousness was already crashing in like a tsunami. Jarvis displayed RUXI’s trending topics in a private channel; the sentiment analysis charts were all deep crimson, brimming with anger and fear that had been deliberately stirred up.
+“He’s misdirecting.”  
+Preston Bezos broke the silence first.  
+Fingers flew across the holo-table, pulling up orbital logs for Alcor’s “Philosopher’s Stone” station.  
 
-“An explanation?” Preston gave the data a cold glance. “Giving in to mob sentiment is the most irresponsible thing we could do. The drone could have been used for surveillance—or planted as a frame job. What we need is evidence, not compromise.”
+“Asset transfer this scale isn’t impulse. He’s been waiting. This ‘accident’ was the perfect exit window he needed.”
 
-At that moment, the main screen of the conference room was forcibly overridden by a non-override priority signal marked “Special Observer.” Once the image stabilized, it revealed one of the Star Council’s permanent representatives stationed on Mars—Dr. Yang Wei. He always appeared at moments like this, like a shark that had smelled blood. A familiar mixture of disgust and wariness instantly tightened in my stomach.
+Vivian Musk pressed her temples hard.  
+Voice heavy with exhaustion, anger flickering beneath.  
 
-Inside the glass-walled office in the Parliamentary Hall of the Interstellar Alliance—specially reserved for observers and overlooking the entire debating chamber—Yang Wei wore a dark Zhongshan suit. Behind him hung, side by side, the emblem of the Star Council and the flag of the Deep Space Alliance, silently delineating the hierarchy of power.
+“His drone was still there. Undeniable. Right now RUXI trends are screaming ‘Alcor is the killer’—top ten and climbing. The public wants blood. We have to give them something.”
 
-“Executive Musk, Director Musk, Director Bezos,” Yang Wei’s greeting carried the calm detachment that diplomats hone for formal occasions—a cold, procedural lack of warmth. He continued: “Under the supervisory authority granted by Chapter VII of the Interstellar Colonial Charter, the Star Council has the right to conduct independent assessments of any major event that may affect the stability of the Solar System. Regarding the Dione Shield Alpha Tower incident, we have detected an anomalous data stream transmitted at peak volume through Mars’ civilian AGI network ‘RUXI’ at the time of the accident.”
+The collective roar hit like a tsunami.  
+Jarvis fed private sentiment maps—solid crimson blocks: rage and fear, deliberately amplified.
 
-He operated his interface, sharing a complex data-flow diagram onto the screen. “Preliminary analysis shows that this data stream contains highly suspicious instruction sets. The encoding style matches known potentially aggressive AGI behavioral patterns with a 98.6% degree of similarity. We suspect that this incident may be related to certain insufficiently regulated strong artificial intelligences developed indigenously on Mars.”
+“Give them something?”  
+Preston’s glance cut like frost across the data.  
 
-Earth’s intervention was like dropping an enormous boulder into an already turbulent dark lake. The dimensions of interstellar political maneuvering were instantly forced open. Yang Wei’s accusation was extremely severe—it pointed directly at the technological core of Mars: AGI and the RUXI platform. This was no longer merely an accident investigation; it was a naked challenge to Mars’ technological sovereignty.
+“Feeding a mob is the most irresponsible path. Drone could be surveillance. Could be planted. We need evidence. Not appeasement.”
 
-“Dr. Yang,” Vivian forced down her anger and maintained diplomatic phrasing, “your suspicions lack direct evidence. The RUXI platform is strictly regulated under Martian law, and the behavior logs of its core AGI ‘MomSay’ are fully transparent and auditable…”
+Priority override slammed the main screen.  
+“Special Observer.”  
 
-“Executive,” Yang Wei interrupted her, his tone carrying the coldness typical of technocrats, “transparency has never equaled security. The complexity of AGI far exceeds that of traditional programs. An instruction that appears harmless may give rise to unpredictable emergent behavior within a complex system. We require the RUXI platform to provide all underlying data flows before and after the incident—including the highest-privilege AGI core interaction logs—for complete verification by Earth. This is for the safety of the Solar System community.
+Yang Wei materialized—Star Council’s resident shark on Mars.  
+Dark Zhongshan suit, glass-walled office overlooking the chamber, calm procedural mask that always twisted something in my gut.
 
-“Otherwise—” he paused for half a second, his gaze sweeping across the round table like a scalpel slicing along everyone’s nerves—“the Star Council will have no choice but to impose an indefinite trade embargo on Flux quantum chips.”
+“Executive Musk. Director Musk. Director Bezos.”  
+Greeting carried zero warmth—only calibrated diplomatic ice.  
 
-In that instant, the illusion from last night’s dream completely collapsed into reality.
+“Under Chapter VII of the Interstellar Colonial Charter, the Council may independently assess any event threatening Solar System stability. Regarding the Dione Shield Alpha Tower incident, we detected anomalous peak-volume data streaming through Mars civilian AGI network RUXI at time of failure.”
 
-Handing over core data? That would be equivalent to fully exposing Mars’ technological jugular to Earth. Refusing would inevitably sever the roots of Mars’ ecosystem. The atmosphere in the conference room instantly dropped to freezing.
+Complex data-flow diagram bloomed—accusing, ugly.  
 
-Just then, a calm—almost languid—female voice cut in. The source was displayed as: “RUXI (In-Character) Chief Executive Officer, Élise Petit.”
+“Preliminary analysis: 98.6% match to known aggressive AGI behavioral encoding patterns. We suspect involvement of insufficiently regulated native Martian strong AI.”
 
-“Dr. Yang Wei,” Élise’s holographic image appeared beside the round table. She seemed to be in a tranquil space filled with green plants, completely at odds with the tension here. She didn’t even glance at Yang Wei; instead, she focused intently on examining the “anomalous data stream” provided by Earth. “The segment you’ve presented is quite interesting. However, have you noticed that at timestamp T+0.0034 seconds, the quantum signature used to verify data integrity employs the ‘Vostok-6’ algorithm—which the Star Council publicly announced as deprecated three months ago?”
+Earth had just dropped a boulder into already turbulent dark water.  
+The game board snapped open to full interstellar scale.  
+No longer mere accident probe.  
+Naked challenge to Mars technological sovereignty.
 
-Yang Wei’s expression darkened almost imperceptibly.
+“Dr. Yang,” Vivian forced calm, voice edged, “your claim lacks direct evidence. RUXI is under strict Martian regulation. MomSay core behavior logs are fully transparent, auditable—”
 
-Élise continued in the calm, measured tone one might use to explain a problem set to a student: “According to publicly available cybersecurity protocols, data signed with an expired key should automatically have its credibility reduced to zero. Even more interesting: this data packet was forwarded through three nodes labeled as ‘Star Council logistics servers’ in Earth-synchronous orbit before entering the RUXI network. If this truly was an attack originating from a Martian AGI, does that mean our AGI has learned to use your servers as a springboard—and deliberately left such an obvious ‘fingerprint’ by employing an encryption method your side has already phased out?
+“Transparency has never equaled security, Executive.”  
+Yang cut in, technocrat coldness like a blade.  
 
-She tapped lightly on her virtual interface, pulling up a screenshot of an official Earth announcement. “Or… is this a rather clumsy political smear? An attempt to exploit a technical accident to manufacture a pretext for intervening in Mars’ internal affairs?”
+“AGI complexity far exceeds legacy code. A seemingly harmless instruction can trigger unpredictable emergence in complex systems. We require full underlying data flows—pre- and post-incident—including highest-privilege MomSay interaction logs—for Earth-side verification. This is for the safety of the entire Solar System community.
 
-Élise’s counterattack was a classic case of technical dimension-reduction strike. She didn’t get bogged down in debating “whether there was an attack”; instead, she directly dismantled the foundation of the other side’s chain of evidence, exposed its fatal logical flaws, and deftly redirected suspicion back toward Earth itself. The maneuver was precise, elegant, and devastatingly effective.
+“Refusal will force the Council to impose an indefinite embargo on Flux quantum chips.”
 
-Yang Wei’s face stiffened. Clearly, he had not expected RUXI’s Chief Executive Officer to strike so directly and sharply. “Ms. Petit, please watch your tone! This is only a preliminary analysis…”
+Last night’s dream shattered into brutal reality.  
+My stomach knotted tighter—exposed jugular, ecosystem roots about to be severed.  
+The room temperature seemed to drop ten degrees.
 
-“If a preliminary analysis is already riddled with such glaring holes, one must question the technical competence of your side,” Élise replied coolly, then added softly: “Dr. Yang, perhaps you should first investigate your own internal data security before rushing to exercise ‘inspection rights’ externally.” With that, she severed the connection. Her image disappeared as quietly as it had arrived, leaving behind an embarrassed Yang Wei on the Earth side and a room full of people wearing various expressions.
+Then a calm, almost languid female voice cut through the freeze.
 
-Earth’s intervention had been temporarily repelled, but the crisis was far from over. While Élise’s defense had been brilliant, it had also dragged RUXI and the AGI even deeper into the vortex. Jarvis once again sounded an alert: due to Earth’s accusations and the ongoing uncertainty, the Martian bond market was experiencing panic selling, and Mars’ sovereign credit rating had been placed on watch list status. The shadow war of interplanetary capital had turned white-hot.
+“RUXI (In-Character) Chief Executive Officer, Élise Petit.”
 
-Preston looked toward Vivian and me, his gaze deep and grave: “Earth won’t let this go easily. Alcor’s drone, the Star Fleet’s accusations… the waters beneath the surface are growing murkier by the minute. We need to move faster and find a truly reliable breakthrough. Dr. Ex, what progress have you made on the technical source tracing?”
+Her hologram appeared—serene green plants framing her, a pocket of quiet violence against the tension.  
+She didn’t even glance at Yang.  
+Eyes locked on the “anomalous stream” he’d shared, dissecting it like a specimen.
 
-I took a deep breath and shared the preliminary analysis report I had just finished processing onto the table: “Regarding the quantum communication module on the drone wreckage, we discovered an anomaly. The last instruction it received had its source IP masked multiple times, but ultimate tracing led to… an untraceable darknet node. And the timing of that instruction trigger matches exactly with the moment microscopic disturbances began appearing in the tower’s constraint field.”
+“Interesting segment, Dr. Yang. But did you notice? Timestamp T+0.0034 seconds—the quantum integrity signature uses Vostok-6. Deprecated by official Council announcement three months ago.”
 
-One more clue had emerged—but every thread seemed to lead into an even thicker fog. Alcor, Earth, AGI, the darknet… the truth felt like a polyhedron, each face reflecting a different light, yet concealing the core even more deeply.
+Yang’s face darkened—micro-twitch, barely visible.
+
+“Per public cybersecurity protocol, expired-key signatures automatically zero credibility. Even more curious: this packet was forwarded through three Earth-synchronous nodes tagged ‘Star Council logistics servers’ before ever touching RUXI.  
+
+If this is truly a Martian AGI attack… our AGI somehow learned to hop your deprecated servers and deliberately left your obsolete fingerprint?
+
+She tapped up a crisp screenshot of the Council deprecation notice.  
+
+“Or… is this clumsy political framing? Exploiting a technical disaster to manufacture pretext for intervening in Martian internal affairs?”
+
+Surgical. Elegant. Devastating.  
+She never debated “was there an attack?”  
+She dismantled the evidence chain at its weakest link and flipped suspicion back toward Earth.  
+
+Yang stiffened visibly.  
+
+“Ms. Petit, this is only preliminary—”
+
+“Preliminary analysis with such elementary holes raises serious questions about your own technical competence.”  
+
+Soft final cut:  
+“Perhaps audit your internal data security first, Dr. Yang. Before exercising external ‘inspection rights.’”  
+
+Connection severed. She vanished like smoke.
+
+Earth’s thrust repelled—for the moment.  
+But RUXI and AGI sank deeper into the vortex.  
+
+Jarvis alert pinged: Martian bonds in panic sell-off. Sovereign credit rating on watch. Interplanetary capital war burning white-hot.
+
+Preston looked at Vivian, then at me. Gaze heavy, grave.  
+
+“Earth won’t back off. Alcor’s drone. Fleet accusations. The waters beneath are growing murkier by the minute. We need a real breakthrough—fast. Dr. Ex, progress on technical source tracing?”
+
+I exhaled slowly, the knot in my gut loosening just enough to speak.  
+Shared the fresh report to the table.  
+
+“Drone quantum-comm module anomaly. Last received instruction: source IP masked through multiple layers, ultimate trace to untraceable darknet node. Trigger timestamp matches—exactly—the onset of microscopic constraint-field perturbations in the tower.”
+
+One more thread surfaced.  
+
+Yet every thread twisted deeper into thicker fog.  
+Alcor. Earth. AGI. The darknet.  
+
+The truth felt like a polyhedron held in shadow—each facet catching a different, deceptive gleam, while the true center remained stubbornly concealed, waiting for the one wrong angle that would either reveal everything… or shatter it all.
 
 Copyright © 2025 by YUQI. All rights reserved.
 
