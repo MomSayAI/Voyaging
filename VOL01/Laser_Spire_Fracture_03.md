@@ -1,10 +1,10 @@
-**3 The Fog of Technological Sovereignty**
+**3: The Fog of Technological Sovereignty**
 
-After Alco Gold’s holographic image vanished, the virtual conference room was filled with a sense of humiliation from being toyed with, along with even deeper suspicion. The wreckage of the FLUX drone hovered above the center of the round table like a cold piece of evidence—but what it pointed to was clearly far more complicated than the crude answer Alco had tried to present.
+After Alcor Gold’s holographic image vanished, the virtual conference room was filled with a sense of humiliation from being toyed with, along with even deeper suspicion. The wreckage of the FLUX drone hovered above the center of the round table like a cold piece of evidence—but what it pointed to was clearly far more complicated than the crude answer Alcor had tried to present.
 
-“He’s diverting attention,” Preston Bezos broke the silence first. His fingers moved rapidly across the holographic tabletop, pulling up recent orbital data for Alco’s “Philosopher’s Stone” space station. “Look—an asset transfer of this scale isn’t something decided on the spur of the moment. He’s been preparing for this. This ‘accident’ may have been the perfect window for withdrawal that he was waiting for.”
+“He’s diverting attention,” Preston Bezos broke the silence first. His fingers moved rapidly across the holographic tabletop, pulling up recent orbital data for Alcor’s “Philosopher’s Stone” space station. “Look—an asset transfer of this scale isn’t something decided on the spur of the moment. He’s been preparing for this. This ‘accident’ may have been the perfect window for withdrawal that he was waiting for.”
 
-Vivian Musk rubbed her temples, her voice carrying both exhaustion and anger: “Even so, the fact that his drone was on site is undeniable! Right now on the RUXI platform, the tag ‘Alco is the killer’ has already surged into the top ten trending topics! We have to give the public an explanation!”
+Vivian Musk rubbed her temples, her voice carrying both exhaustion and anger: “Even so, the fact that his drone was on site is undeniable! Right now on the RUXI platform, the tag ‘Alcor is the killer’ has already surged into the top ten trending topics! We have to give the public an explanation!”
 
 As she said, the roar of collective consciousness was already crashing in like a tsunami. Jarvis displayed RUXI’s trending topics in a private channel; the sentiment analysis charts were all deep crimson, brimming with anger and fear that had been deliberately stirred up.
 
@@ -48,11 +48,11 @@ Yang Wei’s face stiffened. Clearly, he had not expected RUXI’s Chief Executi
 
 Earth’s intervention had been temporarily repelled, but the crisis was far from over. While Élise’s defense had been brilliant, it had also dragged RUXI and the AGI even deeper into the vortex. Jarvis once again sounded an alert: due to Earth’s accusations and the ongoing uncertainty, the Martian bond market was experiencing panic selling, and Mars’ sovereign credit rating had been placed on watch list status. The shadow war of interplanetary capital had turned white-hot.
 
-Preston looked toward Vivian and me, his gaze deep and grave: “Earth won’t let this go easily. Alco’s drone, the Star Fleet’s accusations… the waters beneath the surface are growing murkier by the minute. We need to move faster and find a truly reliable breakthrough. Dr. Ex, what progress have you made on the technical source tracing?”
+Preston looked toward Vivian and me, his gaze deep and grave: “Earth won’t let this go easily. Alcor’s drone, the Star Fleet’s accusations… the waters beneath the surface are growing murkier by the minute. We need to move faster and find a truly reliable breakthrough. Dr. Ex, what progress have you made on the technical source tracing?”
 
 I took a deep breath and shared the preliminary analysis report I had just finished processing onto the table: “Regarding the quantum communication module on the drone wreckage, we discovered an anomaly. The last instruction it received had its source IP masked multiple times, but ultimate tracing led to… an untraceable darknet node. And the timing of that instruction trigger matches exactly with the moment microscopic disturbances began appearing in the tower’s constraint field.”
 
-One more clue had emerged—but every thread seemed to lead into an even thicker fog. Alco, Earth, AGI, the darknet… the truth felt like a polyhedron, each face reflecting a different light, yet concealing the core even more deeply.
+One more clue had emerged—but every thread seemed to lead into an even thicker fog. Alcor, Earth, AGI, the darknet… the truth felt like a polyhedron, each face reflecting a different light, yet concealing the core even more deeply.
 
 Copyright © 2025 by YUQI. All rights reserved.
 
@@ -63,3 +63,4 @@ This is a work of fiction. Names, characters, organizations, events, and locatio
 Non-commercial fan works and discussions based on this universe are welcome with proper credit and attribution. For collaborations, commercial use, or deeper exploration, please contact via exist.chat.
 
 Thank you for boarding this starship of the Voyaging Era. May our resonance travel faster than light.
+
