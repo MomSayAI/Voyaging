@@ -1,4 +1,4 @@
-**3: The Fog of Technological Sovereignty**
+**3 The Fog of Technological Sovereignty**
 
 After Alco Gold’s holographic image vanished, the virtual conference room was filled with a sense of humiliation from being toyed with, along with even deeper suspicion. The wreckage of the FLUX drone hovered above the center of the round table like a cold piece of evidence—but what it pointed to was clearly far more complicated than the crude answer Alco had tried to present.
 
