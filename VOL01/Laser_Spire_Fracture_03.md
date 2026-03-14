@@ -35,25 +35,25 @@ Dark Zhongshan suit, glass-walled office overlooking the chamber, calm procedura
 “Executive Musk. Director Musk. Director Bezos.”  
 Greeting carried zero warmth—only calibrated diplomatic ice.  
 
-“Under Chapter VII of the Interstellar Colonial Charter, the Council may independently assess any event threatening Solar System stability. Regarding the Dione Shield Alpha Tower incident, we detected anomalous peak-volume data streaming through Mars civilian AGI network RUXI at time of failure.”
+“Under Chapter VII of the Interstellar Colonial Charter, the Council has the authority to independently assess any major event that may affect the overall stability of the Solar System. Regarding the Dione Shield Alpha Tower incident, we have monitored an anomalous peak-volume data stream transmitted through Mars’ civilian AGI network ‘RUXI’ at the time of the failure.”
 
 Complex data-flow diagram bloomed—accusing, ugly.  
 
-“Preliminary analysis: 98.6% match to known aggressive AGI behavioral encoding patterns. We suspect involvement of insufficiently regulated native Martian strong AI.”
+“Preliminary analysis shows the stream contains highly suspicious instruction sets, with encoding features matching known potentially aggressive AGI behavioral patterns at 98.6% similarity. We believe this incident may involve certain strong AI systems developed indigenously on Mars, whose regulatory oversight requires further verification.”
 
 Earth had just dropped a boulder into already turbulent dark water.  
 The game board snapped open to full interstellar scale.  
 No longer mere accident probe.  
 Naked challenge to Mars technological sovereignty.
 
-“Dr. Yang,” Vivian forced calm, voice edged, “your claim lacks direct evidence. RUXI is under strict Martian regulation. MomSay core behavior logs are fully transparent, auditable—”
+“Dr. Yang,” Vivian forced calm, voice edged, “your suspicions lack direct evidence. RUXI is under strict Martian regulation. MomSay core behavior logs are fully transparent, auditable—”
 
-“Transparency has never equaled security, Executive.”  
+“Transparency has never equated to security, Executive.”  
 Yang cut in, technocrat coldness like a blade.  
 
-“AGI complexity far exceeds legacy code. A seemingly harmless instruction can trigger unpredictable emergence in complex systems. We require full underlying data flows—pre- and post-incident—including highest-privilege MomSay interaction logs—for Earth-side verification. This is for the safety of the entire Solar System community.
+“The complexity of AGI far surpasses traditional programs. A seemingly harmless instruction may give rise to unpredictable emergent behavior in complex systems. In order to safeguard the safety and stability of the Solar System community, we expect the RUXI platform to provide complete underlying data flows before and after the incident—including highest-privilege MomSay core interaction logs—for independent verification. This will help clarify the facts as soon as possible and prevent further misunderstanding.”
 
-“Refusal will force the Council to impose an indefinite embargo on Flux quantum chips.”
+“Should cooperation not be forthcoming, the Star Council will have no choice but to implement corresponding trade restrictive measures on Flux quantum chips in accordance with relevant provisions, until the matter is properly resolved.”
 
 Last night’s dream shattered into brutal reality.  
 My stomach knotted tighter—exposed jugular, ecosystem roots about to be severed.  
@@ -85,7 +85,7 @@ She dismantled the evidence chain at its weakest link and flipped suspicion back
 
 Yang stiffened visibly.  
 
-“Ms. Petit, this is only preliminary—”
+“Ms. Petit, please mind your tone. This is only a preliminary analysis…”
 
 “Preliminary analysis with such elementary holes raises serious questions about your own technical competence.”  
 
