@@ -1,4 +1,4 @@
-### Permanent Archive Document III
+## Permanent Archive Document III
 
 **Cognitive-Depth Unified Field Theory**
 
