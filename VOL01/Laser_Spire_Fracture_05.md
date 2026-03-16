@@ -1,4 +1,4 @@
-### 5 The Abyss Beneath
+### 5. The Abyss Beneath
 
 In the end, Preston stubbornly led the elite forces of the Alliance Security and Assurance Bureau into Blueport City’s technological ecosystem under the banner of “safety compliance.” It was like dropping a massive stone into a deceptively calm lake—the ripples were inevitable. Meanwhile, Vivian Musk held the fort in the parliamentary hall, fending off the political backlash and the blizzard of protest letters from the Gold family’s legal team.
 
