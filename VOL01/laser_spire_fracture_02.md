@@ -1,4 +1,4 @@
-### 2. Humiliation from Capital
+###Act 2: Humiliation from Capital
 
 “Non-external attack.”  
 
