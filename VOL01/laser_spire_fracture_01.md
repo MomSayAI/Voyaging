@@ -3,84 +3,84 @@
 
 **Chapter 02: Laser Spire Fracture**
 
-*We hunted grand conspiracies, only to find the deepest fracture hidden in our most arrogant prejudice: that we deserve our own technology.*
+We chase world-shaking conspiracies, only to discover the deepest fracture hides in our most arrogant prejudice: that we are worthy of our own technology.
 
-**Mars Era 29, Spring (March 2053 AD)**
-**Location: Musk City (a.k.a. Starship City), Mars**
+Time: Mars Era Year 29, Spring (March 2053)  
+Location: Musk City (also known as Starship City)
 
----
+My consciousness was yanked from near-solidified pure anxiety.  
 
-#### 1. Nightmare Overture
+No clear scenes—just scorched afterimages of system overload, a low fever etched into the deepest layer of my senses. Parallel processes hijacked my synapses in a grotesque intracranial pantomime: first act, quantum chip pin arrays sharp as thorns silently slicing open the starship engine bay inner wall; cut to helium-3 isotope formulas disintegrating in strong magnetic fields, grotesquely reforming into the icy clauses of the Interstellar Scarce Resource Embargo Ordinance; final frame always locked on Alcor Gold’s twisted face—hereditary arrogance fused with frantic self-proof—silently sneering at my father Elon Musk’s holographic image from the Starship City groundbreaking ceremony.
 
-Consciousness was dredged from a pool of nearly solidified anxiety.
+These images did not play sequentially. They compressed, warped, overlapped, fused into suffocating background static—hissing, drowning any attempt at coherent thought.
 
-No images—only the searing afterburn of systemic overload, a low-grade fever etched into the deepest layer of my senses. Parallel processes hijacked my synapses in an absurd intracranial theatre: quantum-chip pin arrays, thorn-sharp, dissecting a Starship engine bay; helium-3 molecular formulae collapsing in strong magnetic fields, grotesquely rearranging themselves into the frozen text of the *Interstellar Resource Embargo Act*; and always the final freeze-frame—Alcor Gold's face, aristocratic arrogance twisted with the frantic need to prove himself, leering in silent mockery at a holographic Elon Musk from the Starship City founding ceremony.
+“Cortisol levels sustained abnormal, peak exceeding safe threshold by 37.1%. Heart rate variability reduced. Initiating mandatory neural soothing protocol.”  
 
-The visions did not play in sequence. They were compressed, warped, superimposed—fused into a suffocating static hiss that drowned every attempt at coherent thought.
+Jarvis’s voice—no longer blending into the environment—cut in like a high-frequency surgical blade, cleanly severing the chaotic neural stream.
 
-"Cortical cortisol sustained above threshold 37.1%. HRV critically low. Initiating forced neural soothing protocol."
+I did not wake naturally. This was forced intervention after physiological monitors judged my metrics had slid into prolonged stress territory. The force-chair’s levitation support sharpened from blur to clarity. Simulated “morning wind” carried faint post-sterilization ozone and ion scent across my face, trying to wash away an iron-rust nightmare residue that existed only in feeling. I kept my eyes closed. I needed this buffer—real-world cold logic gradually overwriting the near-frozen chaos.
 
-Jarvis's voice—usually ambient, barely noticed—cut in like a high-frequency scalpel, severing the chaotic neural torrent with surgical finality.
+“Morning patrol routine ready. Execute standard procedure?” Jarvis asked, voice restored to calm neutrality, as if it had merely cleared trivial cache redundancy.
 
-I did not wake naturally. The system deemed my vitals had slid into chronic stress territory and executed a hard reboot. The levitation cradle beneath me sharpened from blur to clarity. Simulated morning wind—sterile, laced with faint ozone and ion tang—brushed my face, trying to wash away a metallic nightmare taste that had no physical source.
+“Old route.”
 
-I kept my eyes closed. I needed this buffer—this slow overlay of cold real-world logic upon the near-congealed chaos within.
+My voice came hoarse from sleeplessness, but carried unyielding resolve. I needed the city’s iron order to overlay inner turmoil, reaffirm I still ruled it.
 
-"Morning patrol ready. Standard route?" Jarvis asked, voice already smoothed back to neutral, as if it had merely cleared a trivial cache.
+The view switched. I “stood” atop the interstellar port’s central command tower. Jarvis guided my gaze like a patient docent. Below, the landing field ran like a precision clockwork. A “Voyager-class” starship descended vertically; its plasma exhaust carved long, brilliant blue trails through Mars’ thin atmosphere—like a light-sword slashing morning mist.
 
-"Old route."
+“Look there,” Jarvis directed my focus to the starship’s ventral cargo bay. “Latest Optimus-X robot swarm executing 924th autonomous unload cycle. Per your last-week optimized ‘dynamic logistics learning algorithm,’ efficiency up 0.7% over baseline. System nominal.”
 
-My voice was hoarse from the night, but the command carried absolute certainty. I needed the city's iron order to overwrite the inner storm—to reassert that I was still its master.
+My eyes swept past; peripheral data cascaded like waterfalls, confirming Jarvis. But my attention snagged farther away—on the twin quantum interstellar navigation towers piercing the dark-red sky like civilization obelisks, codename “Beidou.”
 
-The view switched. I "stood" atop the central command spire of the interstellar port. Jarvis guided my gaze like a patient docent. Below, the landing field ran with metronomic precision. A Far-Voyage-class starship descended vertically, plasma exhaust carving a long, brilliant blue sword through the thin Martian air.
+“Beidou holographic projection system at 108% standard brightness,” Jarvis continued, a trace of rare admiration in its tone, as if displaying a prized artwork. “Currently providing absolute real-time positioning via quantum entanglement clock grid for the Europa Pioneer science vessel en route to Jupiter’s moons. Core architecture and aesthetic design trace back to Dr. Du Fu and Neri Oxman’s early conceptual drafts—genius strokes.”
 
-"Look there," Jarvis nudged my focus to the cargo bay. "Optimus-X cohort executing autonomous unload sequence 924. Per your dynamic-learning logistics tweak last week, efficiency up 0.7%. Nominal."
+Du Fu.
 
-My eyes skimmed the cascading data at the edge of vision, confirming. But my attention was stolen by the twin monuments piercing the rust-red sky—the quantum interstellar navigation towers, codename *Beidou*.
+The name triggered a subtle cache overflow and logic conflict deep in my awareness. Three conflicting processes maintained around his disappearance:
 
-"Beidou projection luminance holding at 108% of spec," Jarvis continued, a trace of pride slipping through. "Currently feeding real-time entangled-clock positioning to the *Europa Pioneer*, now approaching Jovian space. The architecture and aesthetics—early concept drafts by Dr. Du Fu and Dr. Neri Oxman. Genius strokes."
+Official process (accident): Mars Era Year 12, Winter (December 2035), the Schrödinger shuttle carrying Du Fu and Neri Oxman suffered uncontrollable engine phase instability en route to the Arctic Quantum Lab. It burned like a meteor into the ice cap. The explosion leveled the main lab structure, claiming both geniuses. Strangely, no definitive black box was recovered, no DNA-verifiable tissue fragments found. No body, no death.
 
-*Du Fu.*
+Underground process (murder): In solar-system darknets and certain spaceport bars, another version circulated. Du Fu’s Deep Space R&D Center, augmented by quantum computing and AGI, had detonated a technological big bang. Its patents in energy, navigation, ecology were poised to birth an incalculable commercial empire. Someone—Earth capital leviathans or internal Alliance power players—sabotaged the shuttle in a meticulously staged “accident.” The “murder” was to carve up an emerging tech kingdom before it surfaced.
 
-The name landed like an unparsable legacy instruction. Every invocation triggered a subtle cache overflow—a logic fault in my substrate.
+Fringe process (grotesque): In the highest echelons of research circles, a bolder hypothesis whispered: the Arctic explosion was no ordinary mishap, but triggered an extreme quantum phenomenon. Du Fu and Neri did not “die”—their existence states were “ejected” from familiar spacetime continuity, trapped in eternal quantum superposition—neither dead nor alive, probabilistic cloud, unobservable by conventional means. This offered the most “scientific” yet most unsettling explanation for zero traces.
 
-**Official record:** Mars Era 12 Winter (December 2035 AD), the shuttle *Schrödinger* carrying Du Fu and Neri Oxman suffered catastrophic phase instability en route to the Arctic Quantum Lab. Explosion vaporised the facility. No black box, no recoverable tissue. Missing, presumed dead.
+These unresolved, overlapping legends kept the Deep Space R&D Center “Chief Engineer” seat vacant for eighteen years. The vacancy became an unhealing wound in civilization’s foundation—a taboo throne no power-seeker dared openly claim, lest they become the next protagonist in the “murder” tale or provoke the “grotesque” quantum ghost.
 
-**Darknet legend:** Assassination. The quantum leap achieved under Du Fu's leadership threatened too many Earth-based empires. Someone—corporate or state—tampered with the shuttle.
+“Deep Space Technology R&D Center Chief Engineer,” Jarvis intoned flatly, pulling me from history’s vortex, “vacant since Spring 2036. Per Alliance regulations, position held pending formal declaration of legal death.”
 
-**Fringe whisper:** Neither death nor murder. An extreme quantum event tore them out of the familiar spacetime continuum. They exist in permanent superposition—dead and alive—inside an unobservable probability cloud.
+Its tone stated a physical constant, but the code behind carried Mars colonization’s most unspoken cataclysmic mystery.
 
-Eighteen years. The seat of Chief Engineer, Far Voyage Technical Centre, remains symbolically vacant. A wound in civilisation's foundation no faction dares touch.
+Patrol’s final stop: Jarvis switched my view to the Mars global energy distribution map. Cyan light points stood like loyal sentinels in complex polygonal patterns, forming the Dione Shield laser array encircling major settlements.
 
-"Chief Engineer seat vacant since spring 2036, per Alliance statute," Jarvis recited, flat as a physical constant.
+“Energy core relies on second-generation FLUX quantum chip architecture.” Jarvis’s voice held pure technical appraisal. “This framework propelled FLUX INC to quantum hegemony post-2026, influence spanning the Solar System. Its logic-gate speeds made NVIDIA’s peak-era GPU clusters—then topping five trillion USD market cap—look like abacuses on specialized tasks.”
 
-I knew what the line really carried: the Solar System's most politely unspoken supernova of a mystery.
+“Alcor Gold’s foresight lay in earliest heavy investment, sinking most capital into these towers. They are anchors locking Mars’ energy lifeline—and… the heaviest price on the road to independence.”
 
-The patrol ended with the global energy map. Blue sentinel lights formed the polygonal "Dione's Shield" laser array ringing the major cities.
+Jarvis’s final sentence pierced my thoughts like a liquid-nitrogen probe. Alcor’s shadow radiated everywhere like background noise.
 
-"Powered by second-generation FLUX quantum core," Jarvis said with pure technical reverence. "The architecture that let FLUX Inc seize quantum supremacy in 2026 and render NVIDIA's five-trillion-dollar GPU empire… quaint."
+Patrol complete. View faded. I returned to office reality. Musk City reported “all nominal” through Jarvis. But the breath I drew carried iron-rust weight. This city named for my family was my kingdom—and an inescapable prison forged by reason, capital, historical ghosts, and unsolved enigmas.
 
-"Alcor Gold's vision was to go all-in on that tech and sink most of his capital into these towers. They are the capital anchor on Mars' energy artery—and the heaviest price of Martian independence."
-
-Jarvis's last sentence was a needle dipped in liquid nitrogen, sliding exactly into the gap between my thoughts.
-
-The patrol dissolved. I was back in the physical office. Musk City, per Jarvis, "nominal."
-
-But the breath I drew tasted of rust.
-
-My fingertips reached for the day's first risk assessment—helium-3 supply fluctuations.
+My fingertip reached for today’s first report—risk assessment on recent helium-3 fusion fuel rod supply fluctuations.
 
 The instant before contact—
 
-***BOOM.** *
+Bang!
 
-A muffled thunder, not simulated. Physical shock hammered the dome from the city's edge. Time dilated. The sky outside twisted into unnatural violet polarisation, followed by the death-hum of reinforced glass resonance—a delayed tidal wave of destruction.
+A muffled boom—not simulated—hammered the ecological shield inner wall from the city edge. Time stretched. Sky twisted into unnatural purple polarization in a microsecond, followed by reinforced glass resonance’s deathly hum, crushing everything like a delayed tidal wave.
 
-Jarvis's voice fractured for the first time—an actual logic frame drop.
+Jarvis’s steady voice—for the first time—showed what could be called “logic frame-drop” hesitation. Then, at maximum computation speed, the most concise report:
 
-"Alert: Dione's Shield Array, Alpha Spire node. Helium-3 containment field… collapsed. Leakage signature… unclassifiable. Preliminary assessment: **not external attack.** "
+“Alert: Dione Shield laser array, Alpha Tower node. Helium-3 nuclear fusion constraint field… collapse. Energy leakage pattern… unidentifiable. Preliminary assessment… non-external attack.”
 
----
+Copyright © 2025 by YUQI. All rights reserved.
+
+Voyaging is an original science fiction novel and its derivative universe, including but not limited to the novel text, worldbuilding materials, arXiv academic papers, theoretical models (such as Cognitive-Depth Unified Field Theory and General Existence Theory GET), software applications, artwork, music, and any other related creations. All intellectual property rights are owned by YUQI. No reproduction, distribution, adaptation, public display, derivative works, translation, or commercial use is permitted without explicit written permission from the author.
+
+This is a work of fiction. Names, characters, organizations, events, and locations are products of the author’s imagination or used fictitiously. Any resemblance to actual persons (living or dead), events, or places is purely coincidental.
+
+Non-commercial fan works and discussions based on this universe are welcome with proper credit and attribution. For collaborations, commercial use, or deeper exploration, please contact via exist.chat.
+
+Thank you for boarding this starship of the Voyaging Era. May our resonance travel faster than light.
 
 **第02章：激光塔的裂痕**
 
