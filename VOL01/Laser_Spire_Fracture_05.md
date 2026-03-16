@@ -84,6 +84,7 @@ I knew where I had to go. Not to Blueport City for the power game, but back to t
 
 To listen to the voice of the earth itself.
 
+
 Copyright © 2025 by YUQI. All rights reserved.
 
 Voyaging is an original science fiction novel and its derivative universe, including but not limited to the novel text, worldbuilding materials, arXiv academic papers, theoretical models (such as Cognitive-Depth Unified Field Theory and General Existence Theory GET), software applications, artwork, music, and any other related creations. All intellectual property rights are owned by YUQI. No reproduction, distribution, adaptation, public display, derivative works, translation, or commercial use is permitted without explicit written permission from the author.
